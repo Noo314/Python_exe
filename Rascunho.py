@@ -1,0 +1,8 @@
+n1 = int(input('Digite o Primeiro valor: '))
+n2 = int(input('Digite O Segundo valor: '))
+print('a soma do primeiro mais o segundo é {}'.format(n1+n2))
+print('A multiplicação do primeiro e do segundo é {}'.format(n1*n2))
+print('A potenciação do primeiro e do segundo é {}'.format(n1**n2))
+print('A divisão do primeiro e do segundo é {}'.format(n1/n2))
+print('A divsão inteira e do segundo é {}'.format(n1//n2))
+print('O resto da divisão do primeiro e do segundo é {}'.format(n1%n2))
